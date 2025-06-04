@@ -23,16 +23,26 @@ Run the code
                      --budget 10 \
                      --test
 
-Dependency requirement
-----------------------
 
-- Python 3.6.13
-- NumPy 1.19.5
-- PyTorch 1.10.1+cu102
-- PyG (PyTorch Geometric) 2.0.3
-- PyTorch Scatter 2.0.9
-- Tqdm 4.64.0
-- SciPy 1.5.4
+
+### Dependency requirement
+
+---
+
+* **Python** 3.10+
+* **NumPy** 1.19.5
+* **PyTorch** 2.2.0 + CUDA 12.1
+* **PyTorch Geometric** 2.6.1
+* **PyTorch Scatter** 2.1.2 + CUDA 12.1
+* **Tqdm** 4.67.1
+* **SciPy** 1.13.1
+* **NetworkX** 3.2.1
+* **Gensim** 4.3.3
+* **aiohttp** 3.11.18
+* **Matplotlib** 3.9.2
+
+---
+
 
 Code files
 ----------
